@@ -1,7 +1,8 @@
 
 Detailed Explanation For How to Install Ubuntu
 
-1. On the first screen, you'll be prompted to select a language. This language will be used throughout the installation process and for the default system language.
+1. **Beginning**
+  On the first screen, you'll be prompted to select a language. This language will be used throughout the installation process and for the default system language.
 
 Instruction: Select your preferred language from the list on the right. In this example, "English" is selected.
 Click: "Next" to proceed.
