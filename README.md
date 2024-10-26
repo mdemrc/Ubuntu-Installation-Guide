@@ -1,6 +1,6 @@
 
-**Detailed Explanation For How to Install Ubuntu
-1. First Step**
+Detailed Explanation For How to Install Ubuntu
+1. First Step
 Step: On the first screen, you'll be prompted to select a language. This language will be used throughout the installation process and for the default system language.
 
 Instruction: Select your preferred language from the list on the right. In this example, "English" is selected.
@@ -8,8 +8,8 @@ Click: "Next" to proceed.
 
 ![1](https://github.com/user-attachments/assets/0367dec8-b1ef-461f-b9d1-88c9c0047140)
 
-**2. Accessibility Options
-**Ubuntu offers accessibility features to assist users with disabilities.
+2. Accessibility Options
+Ubuntu offers accessibility features to assist users with disabilities.
 
 Step: Customize Ubuntu’s accessibility options if needed. You can adjust settings related to vision, hearing, typing, and pointing and clicking.
 
@@ -18,8 +18,8 @@ Click: "Next" to continue.
 
 ![2](https://github.com/user-attachments/assets/a079f531-2dd0-4a54-9776-cbc24df3f352)
 
-**3. Keyboard Layout
-**This step configures the keyboard layout.
+3. Keyboard Layout
+This step configures the keyboard layout.
 
 Step: Choose your keyboard layout from the list. For most users, Ubuntu will detect the keyboard layout automatically. However, you can select it manually if needed.
 
@@ -28,8 +28,8 @@ Click: "Next" to confirm.
 
 ![2](https://github.com/user-attachments/assets/575a50eb-844c-43bf-89e6-72dd5bb15539)
 
-**4. Internet Connection
-**During installation, Ubuntu can download updates if connected to the internet.
+4. Internet Connection
+During installation, Ubuntu can download updates if connected to the internet.
 
 Step: Connect to the internet via a wired or wireless network. If no Wi-Fi devices are detected, the option will be greyed out.
 
@@ -38,8 +38,8 @@ Click: "Next" to proceed without internet, or connect as needed.
 
 ![4](https://github.com/user-attachments/assets/e83dfbfe-4c45-4621-a77f-3b320a8f39cf)
 
-**5. Choose Installation Type
-**Ubuntu offers a “Try” mode and an “Install” mode.
+5. Choose Installation Type
+Ubuntu offers a “Try” mode and an “Install” mode.
 
 Step: Decide whether to try Ubuntu in a live session (which won’t make changes to your system) or to install it.
 
@@ -48,8 +48,8 @@ Click: "Next" to proceed with the installation.
 
 ![5](https://github.com/user-attachments/assets/39248f36-1787-40f2-81f1-8dbb2f03318e)
 
-**6. Applications Setup
-**Ubuntu provides two installation options to control which applications are installed initially.
+6. Applications Setup
+Ubuntu provides two installation options to control which applications are installed initially.
 
 Step: Choose between "Default selection" and "Extended selection." The default setup installs basic utilities and a web browser, while the extended selection includes office tools and additional utilities.
 
@@ -58,8 +58,8 @@ Click: "Next" to continue.
 
 ![6](https://github.com/user-attachments/assets/1c3aa50a-e6b2-42e2-845b-3faf8c77ef77)
 
-**7. Proprietary Software
-**This option allows you to install third-party software for better hardware compatibility, such as graphics and Wi-Fi drivers.
+7. Proprietary Software
+This option allows you to install third-party software for better hardware compatibility, such as graphics and Wi-Fi drivers.
 
 Step: Install proprietary software if required for your hardware.
 
@@ -69,8 +69,8 @@ Click: "Next" after selecting.
 ![7](https://github.com/user-attachments/assets/681218b5-7788-4a30-bfe9-7709a7c85c37)
 
 
-**8. Disk Setup
-**Here, you’ll choose where and how Ubuntu should be installed.
+8. Disk Setup
+Here, you’ll choose where and how Ubuntu should be installed.
 
 Step: Select whether to erase the disk and install Ubuntu or to manually configure partitions.
 
@@ -81,8 +81,8 @@ Click: "Next" to continue.
 ![9](https://github.com/user-attachments/assets/c6027c30-8f6d-4ad2-9e5d-a2069971816b)
 
 
-**9. Time Zone
-**This screen lets you configure the system time zone.
+9. Time Zone
+This screen lets you configure the system time zone.
 
 Step: Select your location on the map or enter it manually.
 
@@ -91,8 +91,8 @@ Click: "Next" after selecting.
 
 ![11](https://github.com/user-attachments/assets/a8e8fbce-60c3-4c5d-8264-619fb90105f9)
 
-**10. User Account Setup
-**Create a user account that will be used to log into your new Ubuntu system.
+10. User Account Setup
+Create a user account that will be used to log into your new Ubuntu system.
 
 Step: Enter your name, computer’s name, username, and password.
 
@@ -101,8 +101,8 @@ Click: "Next" to proceed.
 
 ![12](https://github.com/user-attachments/assets/9aecba1f-1317-4b17-9816-a4dc3ce48039)
 
-**11. Review Your Choices
-**Before installation begins, Ubuntu displays a summary of your selections.
+11. Review Your Choices
+Before installation begins, Ubuntu displays a summary of your selections.
 
 Step: Review all settings, including disk setup, applications, and proprietary software options.
 
@@ -111,8 +111,8 @@ Click: "Install" to proceed.
 
 
 
-**12. Installation Process
-**The installation process starts, and Ubuntu begins copying files to the disk.
+12. Installation Process
+The installation process starts, and Ubuntu begins copying files to the disk.
 
 Step: Wait while the system is installed. This may take some time.
 
@@ -121,8 +121,8 @@ Note: Ensure your device remains connected to power to avoid interruptions.
 
 ![12](https://github.com/user-attachments/assets/35c24d38-aee5-45f4-9b34-74e5c86a124d)
 
-**13. Installation Complete
-**Once installation is complete, you’ll be prompted to restart.
+13. Installation Complete
+Once installation is complete, you’ll be prompted to restart.
 
 Step: Click "Restart now" to boot into your new Ubuntu system.
 
@@ -134,8 +134,8 @@ Click: "Restart now" to finish.
 ![14](https://github.com/user-attachments/assets/a55b669b-b196-480d-b9b0-09788a88a1db)
 
 
-**14. Now You Can Customize Your Ubuntu
-**After restarting, Ubuntu loads your new desktop environment.
+14. Now You Can Customize Your Ubuntu
+After restarting, Ubuntu loads your new desktop environment.
 
 You can begin customizing and installing additional applications as needed.
 
