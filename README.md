@@ -110,7 +110,7 @@ Step: Enter your name, computer’s name, username, and password.
 Instruction: Choose a strong password and confirm it. If you want Ubuntu to require a password at login, leave the “Require my password to log in” box checked.
 Click: "Next" to proceed.
 
-![12](https://github.com/user-attachments/assets/9aecba1f-1317-4b17-9816-a4dc3ce48039)
+![10](https://github.com/user-attachments/assets/8521e08b-2132-4f9e-9c0c-9a68b389a0fb)
 
 **11. Review Your Choices**
 
