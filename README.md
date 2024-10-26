@@ -63,7 +63,7 @@ Step: Choose between "Default selection" and "Extended selection." The default s
 Instruction: Select your preferred option. "Default selection" is sufficient for most users.
 Click: "Next" to continue.
 
-![6](https://github.com/user-attachments/assets/1c3aa50a-e6b2-42e2-845b-3faf8c77ef77)
+![6](https://github.com/user-attachments/assets/fe1993c8-437c-424a-b1e6-040a168ff0e9)
 
 **7. Proprietary Software**
 
