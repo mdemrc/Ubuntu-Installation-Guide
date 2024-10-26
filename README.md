@@ -121,7 +121,7 @@ Step: Review all settings, including disk setup, applications, and proprietary s
 Instruction: Verify your choices. If everything looks correct, click "Install" to begin the installation.
 Click: "Install" to proceed.
 
-
+![12](https://github.com/user-attachments/assets/35c24d38-aee5-45f4-9b34-74e5c86a124d)
 
 **12. Installation Process**
 
@@ -132,7 +132,8 @@ Step: Wait while the system is installed. This may take some time.
 Instruction: You can monitor the progress on this screen. No interaction is needed during this phase.
 Note: Ensure your device remains connected to power to avoid interruptions.
 
-![12](https://github.com/user-attachments/assets/35c24d38-aee5-45f4-9b34-74e5c86a124d)
+![13](https://github.com/user-attachments/assets/32ea4946-fd8e-4b3c-ab8f-7b0c2a199398)
+
 
 **13. Installation Complete**
 
@@ -142,8 +143,6 @@ Step: Click "Restart now" to boot into your new Ubuntu system.
 
 Instruction: Remove any installation media (like a USB drive) when prompted.
 Click: "Restart now" to finish.
-
-![13](https://github.com/user-attachments/assets/0a361dab-fa4b-4574-85e2-02f7527e63b1)
 
 ![14](https://github.com/user-attachments/assets/a55b669b-b196-480d-b9b0-09788a88a1db)
 
