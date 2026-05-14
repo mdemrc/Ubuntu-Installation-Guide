@@ -1,3 +1,12 @@
+# Ubuntu installation — screenshot walk-through
+
+[![EN](https://img.shields.io/badge/lang-English-blue)]() [![TR](https://img.shields.io/badge/lang-Türkçe-red)]()
+
+**EN:** Step-by-step visual guide that follows the graphical Ubuntu installer — language selection, accessibility, partitioning, timezone, account creation, until first boot — with annotated screenshots uploaded to GitHub `user-attachments`.
+
+**TR:** Grafik Ubuntu kurulum sihbazını ekran görüntüleriyle baştan sona anlatan rehber: dil seçimi, erişilebilirlik, disk bölümleme, saat dilimi, kullanıcı hesabı ve ilk açılış. Görseller `user-attachments` üzerinden yüklenmiştir.
+
+---
 
 Detailed Explanation For How to Install Ubuntu
 
